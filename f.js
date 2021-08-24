@@ -1,1 +1,1 @@
-script
+what kind script
